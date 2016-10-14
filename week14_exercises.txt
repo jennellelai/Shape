@@ -1,0 +1,22 @@
+#!/usr/local/bin/ruby
+# Name: Jennelle Lai
+# File: week14_exercises.txt
+# ASSN: Week 14 - Exercises: Modules, Mixins, Nested Classes File
+# Desc: Output of shape.rb & test_shape.rb
+
+#shape.rb output
+Shape at 0x0
+31415.926535897932
+84.5
+130
+
+
+
+#test_shape.rb output
+Shape at 0x0
+31415.926535897932
+84.5
+130
+Shape::Circle at 100x100, its area is 31415.926535897932, radius 100
+Shape::Triangle at 10x10, its area is 84.5, base_width 13, height 13
+Shape::Rectangle at 0x0, its area is 130, length 10, width 13
